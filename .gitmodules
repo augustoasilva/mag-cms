@@ -1,0 +1,6 @@
+[submodule "mag-cms-api"]
+	path = mag-cms-api
+	url = https://github.com/augustoasilva/mag-cms-api
+[submodule "mag-cms-webapp"]
+	path = mag-cms-webapp
+	url = https://github.com/augustoasilva/mag-cms-webapp
